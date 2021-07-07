@@ -1,7 +1,4 @@
-main() {
+main(List args) {
   print('Olá Dart!');
-
-  {
-    print('Olá Dart!');
-  }
+  print(args);
 }
